@@ -10,4 +10,6 @@
 // Endpoint that accepts 2 inputs:
 // Endpoint that accepts 2 showing >, < or =
 
-// Person who Peer Reviewed your assignment:
+// Person who Peer Reviewed your assignment: <br>
+David Jimenez <br>
+Your 3 endpoints work well, and dont have any problems.  If in the future you have a person input numbers with decimals u may want to use double instead of int for your inputs.
